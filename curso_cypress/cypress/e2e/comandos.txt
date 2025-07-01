@@ -1,0 +1,4 @@
+
+# npm install --save-dev mochawesome
+
+ # npx cypress run --reporter mockawesome
